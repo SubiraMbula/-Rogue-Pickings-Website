@@ -13,7 +13,7 @@ li, .rouge, h3{
     border-bottom: 0.3rem solid rgb(85, 133, 26);
   }
   .container{
-    max-width: 950px;
+    max-width: 950px ;
     max-height: auto;
     margin: auto;
     background-color: white;
