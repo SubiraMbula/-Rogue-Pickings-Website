@@ -1,0 +1,73 @@
+li, .rouge, h3{
+    color: rgb(109,150,58);
+    font-family: 'TimesNewRomanPSMT';
+  }
+  p{
+    font-size: 16px;
+    font-family: 'TimesNewRomanPS-BoldMT';
+  }
+  img{
+    height: 250px;
+    width: 950px;
+    border-top: 0.3rem solid rgb(85, 133, 26);
+    border-bottom: 0.3rem solid rgb(85, 133, 26);
+  }
+  .container{
+    max-width: 950px;
+    max-height: 650px;
+    margin: auto;
+    background-color: white;
+    padding: 5%;
+  }
+  body{
+    background-color: black;
+    font-family: 'Times New Roman';
+  }
+.nav {
+  float: right;
+  margin:0;
+	padding: 0;
+  position: relative;
+}
+.nav li {
+	display: inline-block;
+	list-style: none;
+	margin:0;
+}
+.nav li a {
+	color:  rgb(109,150,58);
+	display: block;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:0.8em;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+.nav li a:hover {
+	background: #d90075;
+	color: #fff;
+}
+.card1, .card2, .card3{
+  border: thin solid whitesmoke;
+  border: 0.3px solid whitesmoke;
+  padding: 10px;
+  box-shadow: 6px 4px 8px whitesmoke;
+  width: 500px;
+}
+ .cards{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+ }
+ footer{
+  text-align: center;
+  padding-top: 1.5rem;
+ }
+ i{
+  color: rgb(83, 122, 35);
+  }
+  .nav,h2{
+    display: inline-block;
+  }
+  h2{
+    padding-top: -2rem;
+  }
