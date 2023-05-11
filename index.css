@@ -7,14 +7,14 @@ li, .rouge, h3{
     font-family: 'TimesNewRomanPS-BoldMT';
   }
   img{
-    height: 250px;
-    width: 950px;
+    height: auto;
+    width: auto;
     border-top: 0.3rem solid rgb(85, 133, 26);
     border-bottom: 0.3rem solid rgb(85, 133, 26);
   }
   .container{
-    max-width: 950px;
-    max-height: 650px;
+    max-width: 900px;
+    max-height: auto;
     margin: auto;
     background-color: white;
     padding: 5%;
@@ -28,6 +28,9 @@ li, .rouge, h3{
   margin:0;
 	padding: 0;
   position: relative;
+}
+.nav,h2{
+  display: inline-block;
 }
 .nav li {
 	display: inline-block;
@@ -65,9 +68,10 @@ li, .rouge, h3{
  i{
   color: rgb(83, 122, 35);
   }
-  .nav,h2{
-    display: inline-block;
-  }
   h2{
     padding-top: -2rem;
+  }
+  .responsive {
+    max-width: 98%;
+    height: auto;
   }
