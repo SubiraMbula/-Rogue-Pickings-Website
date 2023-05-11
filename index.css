@@ -52,9 +52,9 @@ li, .rouge, h3{
 .card1, .card2, .card3{
   border: thin solid whitesmoke;
   border: 0.3px solid whitesmoke;
-  padding: 10px;
-  box-shadow: 6px 4px 8px whitesmoke;
-  width: 500px;
+  padding: 5px;
+  box-shadow: 4px 2px 4px whitesmoke;
+  width: 600px;
 }
  .cards{
   display: flex;
@@ -63,7 +63,7 @@ li, .rouge, h3{
  }
  footer{
   text-align: center;
-  padding-top: 1.5rem;
+  padding-top: 1rem;
  }
  i{
   color: rgb(83, 122, 35);
