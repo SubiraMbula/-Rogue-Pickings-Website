@@ -9,14 +9,14 @@ Rogue Pickings website is a restaurant website that delivers good fresh and affo
 2. CSS
 
 ## Visuals
-C:\Users\SUBBY\Documents\GitHub\-Rogue-Pickings-Website\rogue.png
+![rogue.png]
 
 ## Installation
 clone the respository using the link below:
 https://github.com/SubiraMbula/-Rogue-Pickings-Website.git
 
 ## Contact and Support
--EMAIL -[subbysav123@gmail.com]
+EMAIL subbysav123@gmail.com
 
 ## Roadmap
 Future ideas and improvements include adding a gallery page and more user interactions on the webpage.
